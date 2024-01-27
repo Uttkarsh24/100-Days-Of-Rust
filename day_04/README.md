@@ -1,4 +1,4 @@
-# How to use Structures ? - Day 3
+# How to use Structures ? - Day 4
 
 This is the fourth day you have to Take this challenge and start your #100daysofrust journey.
 
