@@ -32,6 +32,4 @@ fn main()
     let x2 = x1.clone();
 
     println!("x1 = {}, x2 = {}", x1, x2);
-
-
 }
